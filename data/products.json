@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 59.99,
+    "rating": "4.5",
+    "image": "/images/headphones.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch Pro",
+    "price": 129.99,
+    "rating": "4.7",
+    "image": "/images/smartwatch.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 3,
+    "title": "Running Shoes",
+    "price": 89.99,
+    "rating": "4.3",
+    "image": "/images/shoes.jpg",
+    "category": "fashion"
+  },
+  {
+    "id": 4,
+    "title": "Men's Leather Jacket",
+    "price": 149.99,
+    "rating": "4.8",
+    "image": "/images/jacket.jpg",
+    "category": "fashion"
+  },
+  {
+    "id": 5,
+    "title": "Bluetooth Speaker",
+    "price": 39.99,
+    "rating": "4.2",
+    "image": "/images/speaker.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 6,
+    "title": "Office Chair",
+    "price": 109.99,
+    "rating": "4.6",
+    "image": "/images/chair.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 7,
+    "title": "Laptop Stand",
+    "price": 24.99,
+    "rating": "4.4",
+    "image": "/images/stand.jpg",
+    "category": "accessories"
+  },
+  {
+    "id": 8,
+    "title": "Gaming Mouse",
+    "price": 49.99,
+    "rating": "4.7",
+    "image": "/images/mouse.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 9,
+    "title": "LED Desk Lamp",
+    "price": 19.99,
+    "rating": "4.1",
+    "image": "/images/lamp.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": 10,
+    "title": "Fitness Tracker Band",
+    "price": 39.99,
+    "rating": "4.3",
+    "image": "/images/fitness.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 11,
+    "title": "Casual Backpack",
+    "price": 44.99,
+    "rating": "4.4",
+    "image": "/images/backpack.jpg",
+    "category": "fashion"
+  },
+  {
+    "id": 12,
+    "title": "Ceramic Coffee Mug",
+    "price": 14.99,
+    "rating": "4.2",
+    "image": "/images/mug.jpg",
+    "category": "home"
+  }
+]
